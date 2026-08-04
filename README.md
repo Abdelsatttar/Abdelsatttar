@@ -20,7 +20,7 @@
 
 ---
 
-# 👋 About Me
+#  About Me
 
 I'm **Ahmed Mohamed Abdel Sattar**, a **Full Stack .NET Developer** from **Egypt**.
 
@@ -34,7 +34,7 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 <p align="center">
 
@@ -58,9 +58,9 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## ⚙️ Backend
+##  Backend
 
 <p align="center">
 
@@ -90,7 +90,7 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-## 🗄️ Database
+##  Database
 
 <p align="center">
 
@@ -104,7 +104,7 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-## 🎨 Frontend
+##  Frontend
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-## 🛠 Development Tools
+##  Development Tools
 
 <p align="center">
 
@@ -132,7 +132,7 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-## 📚 Software Engineering
+## Software Engineering
 
 <p align="center">
 
@@ -152,44 +152,54 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-# 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/Abdelsatttar/Smart-Encrypted-File-System">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelsatttar&repo=Smart-Encrypted-File-System&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelsatttar&repo=Smart-Encrypted-File-System&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
 
 <a href="https://github.com/Abdelsatttar/Portfolio">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelsatttar&repo=Portfolio&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelsatttar&repo=Portfolio&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
 
 </p>
 
 ---
-# 📊 GitHub Statistics
+##  GitHub Statistics
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdelsatttar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdelsatttar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Abdelsatttar&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+<td width="50%">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Abdelsatttar&theme=tokyonight&hide_border=true"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelsatttar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</td>
+</tr>
 
-</p>
+<tr>
+<td colspan="2" align="center">
+
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdelsatttar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Activity Graph
+#  GitHub Activity Graph
 
 <p align="center">
 
@@ -199,17 +209,9 @@ Currently, I'm continuously improving my skills in software architecture, backen
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdelsatttar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
-
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
 
@@ -233,7 +235,7 @@ src="https://raw.githubusercontent.com/Abdelsatttar/Abdelsatttar/output/github-c
 
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -259,13 +261,13 @@ src="https://raw.githubusercontent.com/Abdelsatttar/Abdelsatttar/output/github-c
 
 ---
 
-# 💡 Developer Philosophy
+#  Developer Philosophy
 
 > *"Great software isn't just about making things work—it's about making them scalable, maintainable, and enjoyable to build."*
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <p align="center">
 
